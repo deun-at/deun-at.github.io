@@ -10,7 +10,7 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "c0609ff395cb86653eb10ba43476d
 "assets/AssetManifest.bin": "8a069f467daf6b6ee591a0736ec9b3e6",
 "assets/NOTICES": "3efbd5064420eecd4f6744a04ad0cac9",
 "assets/AssetManifest.json": "faa377e90da65c0b94865e5cbbec5ea4",
-"assets/fonts/MaterialIcons-Regular.otf": "110bcc5915b63048035af7e0f80629e7",
+"assets/fonts/MaterialIcons-Regular.otf": "0c65d7714cc6d73c0b648ed484dc8896",
 "assets/packages/supabase_auth_ui/assets/logos/kakao.png": "7e156d594910fef4ae12696161c47a2f",
 "assets/packages/supabase_auth_ui/assets/logos/keycloak.png": "ea74380ccc89dbc26bd0281dd46ee942",
 "assets/packages/supabase_auth_ui/assets/logos/workOS.png": "7ddd6d5a2e3b4dc4dbb1a2ee9ab8cd5b",
@@ -38,8 +38,8 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "c0609ff395cb86653eb10ba43476d
 "/": "d8f615a81405defce7edb19dc6b96adc",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "5b74eb93703b62e43164c37ae066c4fa",
-"flutter_bootstrap.js": "926c837bfad1ea8871c519fa2965e59a",
-"main.dart.js": "9a7fcbf3658f6a971701f923bf55df41"};
+"flutter_bootstrap.js": "ec4c3db08f6dbc2a5dbaadafe12195a3",
+"main.dart.js": "2a32c14a930ec2d3fcfbd2f349c448fc"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
