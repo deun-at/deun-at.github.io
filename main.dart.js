@@ -7919,7 +7919,7 @@ var $async$aTT=A.x(function(a,b){if(a===1)return A.t(b,r)
 while(true)switch(s){case 0:if($.a6==null)A.aDh()
 $.a6.toString
 s=2
-return A.q(A.aBh("",""),$async$aTT)
+return A.q(A.aBh("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpseXhpZHpoc3hiZGNpdHBoaXBnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjU5ODY4MjksImV4cCI6MjA0MTU2MjgyOX0.HVdWyO4YmIn-mxHRqKY8kiponI-3kUA15BCTPxfLAlg","https://jlyxidzhsxbdcitphipg.supabase.co"),$async$aTT)
 case 2:if(A.aCL().gfV().aE(0,"code")){q=window.history
 q.toString
 q.replaceState(new A.aPA([],[]).pX(null),"","/")}if($.a6==null)A.aDh()
