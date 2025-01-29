@@ -102787,7 +102787,7 @@ RX(a,b,c){var s=A.hS(2,this.a,"\u20ac").dj(c)
 return A.F7(b,A.V(["yes",a+" owes you","other","You owe "+a],t.K,t.N))+" "+s},
 RZ(a,b){var s=A.hS(2,this.a,"\u20ac").dj(b)
 return A.F7(a,A.V(["yes","You are owed","other","You owe"],t.K,t.N))+" "+s},
-a7H(a){return"You spent "+A.hS(2,this.a,"\u20ac").dj(a)},
+a7H(a){return"Total expenses "+A.hS(2,this.a,"\u20ac").dj(a)},
 ga1N(){return"all done"},
 gQi(){return"Pay back"},
 a6x(a,b){return"Pay back "+A.hS(2,this.a,"\u20ac").dj(b)+" to "+a},
@@ -102850,7 +102850,7 @@ RX(a,b,c){var s=A.hS(2,this.a,"\u20ac").dj(c)
 return A.F7(b,A.V(["yes",a+" owes you","other","You owe "+a],t.K,t.N))+" "+s},
 RZ(a,b){var s=A.hS(2,this.a,"\u20ac").dj(b)
 return A.F7(a,A.V(["yes","You are owed","other","You owe"],t.K,t.N))+" "+s},
-a7H(a){return"You spent "+A.hS(2,this.a,"\u20ac").dj(a)},
+a7H(a){return"Total expenses "+A.hS(2,this.a,"\u20ac").dj(a)},
 ga1N(){return"all done"},
 gQi(){return"Pay back"},
 a6x(a,b){return"Pay back "+A.hS(2,this.a,"\u20ac").dj(b)+" to "+a},
