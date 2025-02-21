@@ -8528,18 +8528,23 @@ case 6:case 5:s=7
 return A.o(q.Bc("update_group_member_shares",A.Y(["_group_id",i.h(l,"id"),"_expense_id",null],o,n),n),$async$y4)
 case 7:return A.t(null,r)}})
 return A.u($async$y4,r)},
-Vd(a,b,c){var s=0,r=A.v(t.H),q,p,o,n
+Vd(a,b,c){var s=0,r=A.v(t.H),q,p,o,n,m,l,k,j,i
 var $async$Vd=A.q(function(d,e){if(d===1)return A.r(e,r)
 while(true)switch(s){case 0:o=$.cz()
 n=o.gd0().c
 n=n==null?null:n.z
 q=t.N
 p=t.z
-s=2
+m=o
+l="update_group_member_shares"
+k=A
+j=a
+i="_expense_id"
+s=3
 return A.o(o.Bc("pay_back",A.Y(["_group_id",a,"_paid_by",n,"_paid_for",b,"_amount",c],q,p),p),$async$Vd)
-case 2:s=3
-return A.o(o.Bc("update_group_member_shares",A.Y(["_group_id",a,"_expense_id",null],q,p),p),$async$Vd)
-case 3:return A.t(null,r)}})
+case 3:s=2
+return A.o(m.Bc(l,k.Y(["_group_id",j,i,e],q,p),p),$async$Vd)
+case 2:return A.t(null,r)}})
 return A.u($async$Vd,r)},
 up:function up(){this.b=this.a=$},
 cc:function cc(){var _=this
