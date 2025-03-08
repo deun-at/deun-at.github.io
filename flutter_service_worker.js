@@ -42,7 +42,7 @@ const RESOURCES = {"canvaskit/skwasm.js": "f2ad9363618c5f62e813740099a80e63",
 "assets/packages/supabase_auth_ui/assets/logos/kakao.png": "7e156d594910fef4ae12696161c47a2f",
 "assets/packages/supabase_auth_ui/assets/logos/google_light.png": "f243a900707589f1b21af980454090bd",
 "assets/AssetManifest.json": "1961e96d399129d3220b259fb7ef27c3",
-"version.json": "7582420f754f9b05175e280babf96a79",
+"version.json": "08703ee93490ddd40ecba5a1e7bd08ca",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.ico": "e7528c214f13d2052587ed91ca0945a6",
 "main.dart.js": "2c4017ef80abec8c3311b5c550530766",
@@ -52,7 +52,7 @@ const RESOURCES = {"canvaskit/skwasm.js": "f2ad9363618c5f62e813740099a80e63",
 "icons/Icon-192.png": "40f6e47971a66fd47ca6730113ee4cdd",
 "icons/Icon-512.png": "3893ab01a16db874bab664ec0f4b810e",
 "manifest.json": "b79f08c7fa4b1fcd351c9e4f9e448927",
-"flutter_bootstrap.js": "b68744389e55f4ac6254659b7a864d6a"};
+"flutter_bootstrap.js": "355138f7558441500d24b43a05a07317"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
