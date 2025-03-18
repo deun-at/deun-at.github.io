@@ -47,13 +47,13 @@ const RESOURCES = {"canvaskit/skwasm.js": "f2ad9363618c5f62e813740099a80e63",
 "favicon.ico": "e7528c214f13d2052587ed91ca0945a6",
 "main.dart.js": "c8df31eafd19f9e8fa0869ace45bd58f",
 "firebase-messaging-sw.js": "9cc533142ad5d7211df683377f8e3c7d",
-".well-known/assetlinks.json": "34dc9994f2ce77b10ff9a35f3a6e5afc",
+".well-known/assetlinks.json": "076b249d0c92ad3b2664de9108c7e85e",
 "icons/Icon-512-maskable.png": "32a86bd90d1066e4170e18f7d2989bb5",
 "icons/Icon-192-maskable.png": "426a11f5f4bcf1a04b7fa4c2a43e55c2",
 "icons/Icon-192.png": "40f6e47971a66fd47ca6730113ee4cdd",
 "icons/Icon-512.png": "3893ab01a16db874bab664ec0f4b810e",
 "manifest.json": "b79f08c7fa4b1fcd351c9e4f9e448927",
-"flutter_bootstrap.js": "7cf0f53a0c6b52a19e1d63f073fb0e0d",
+"flutter_bootstrap.js": "5a952b5f5cc2d789aaa9f1aba7760718",
 "_config.yaml": "95b9185565555f2b4405dff033ce56c8"};
 // The application shell files that are downloaded before a service worker can
 // start.
