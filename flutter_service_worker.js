@@ -45,7 +45,7 @@ const RESOURCES = {"canvaskit/skwasm.js": "f2ad9363618c5f62e813740099a80e63",
 "version.json": "86006b031a48e9174174abb502fcbce2",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.ico": "e7528c214f13d2052587ed91ca0945a6",
-"main.dart.js": "ab6a10522614e5bc6f0b50967a010546",
+"main.dart.js": "c8df31eafd19f9e8fa0869ace45bd58f",
 "firebase-messaging-sw.js": "9cc533142ad5d7211df683377f8e3c7d",
 ".well-known/assetlinks.json": "34dc9994f2ce77b10ff9a35f3a6e5afc",
 "icons/Icon-512-maskable.png": "32a86bd90d1066e4170e18f7d2989bb5",
@@ -53,7 +53,7 @@ const RESOURCES = {"canvaskit/skwasm.js": "f2ad9363618c5f62e813740099a80e63",
 "icons/Icon-192.png": "40f6e47971a66fd47ca6730113ee4cdd",
 "icons/Icon-512.png": "3893ab01a16db874bab664ec0f4b810e",
 "manifest.json": "b79f08c7fa4b1fcd351c9e4f9e448927",
-"flutter_bootstrap.js": "7dabd6ddc8c1a3de8bca746fd50081ef",
+"flutter_bootstrap.js": "8d5374b3d607571d9050907c71d51ca8",
 "_config.yaml": "95b9185565555f2b4405dff033ce56c8"};
 // The application shell files that are downloaded before a service worker can
 // start.
