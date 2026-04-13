@@ -64953,7 +64953,7 @@ this.aq()},
 a1P(){var s=$.bw().gc1().c,r=s==null?null:s.r
 s=this.r
 if(s==null){s=r==null?null:r.z
-s=A.cO("https://deun.app/#/friend/accept?email="+(s==null?"":s),0,null)}return s},
+s=A.cO("https://app.deun.app/#/friend/accept?email="+(s==null?"":s),0,null)}return s},
 G5(){var s=0,r=A.r(t.H),q=1,p=[],o=this,n,m,l,k,j,i
 var $async$G5=A.n(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:q=3
@@ -65070,7 +65070,7 @@ r.toString
 r=A.jC(2,r,B.W,!1)
 s=s.r
 s.toString
-this.a.r=A.cO("https://deun.app/#/friend/accept?u="+r+"&c="+A.jC(2,s,B.W,!1),0,null)},
+this.a.r=A.cO("https://app.deun.app/#/friend/accept?u="+r+"&c="+A.jC(2,s,B.W,!1),0,null)},
 $S:0}
 A.b6p.prototype={
 $1(a){var s=this.a
@@ -66316,7 +66316,7 @@ r===$&&A.a()
 r=A.jC(2,r,B.W,!1)
 s=s.b
 s===$&&A.a()
-return A.bnn(new A.aE4(A.cO("https://deun.app/#/group/join?groupId="+r+"&name="+A.jC(2,s,B.W,!1),0,null)),!1,0.8,!0)}}
+return A.bnn(new A.aE4(A.cO("https://app.deun.app/#/group/join?groupId="+r+"&name="+A.jC(2,s,B.W,!1),0,null)),!1,0.8,!0)}}
 A.aE4.prototype={
 $2(a,b){var s,r,q,p=null,o=t.J,n=A.kv(p,p,p,!0,!0,p,p,1,p,p,p,!1,p,!1,p,p,p,p,!0,p,p,p,p,p,A.S(A.M(a,B.h,o).gNv(),1,B.aB,p,A.wM().$1$textStyle(A.x(a).ok.r.rP(B.c8)),p,p,p),p,p,p,1,p,!0),m=A.eh(16),l=this.a
 m=A.iC(p,A.bwA(l.j(0),260,-1),B.I,p,p,new A.fY(B.l,p,p,m,p,p,B.bC),p,p,p,p,B.eZ,p,p,p)
